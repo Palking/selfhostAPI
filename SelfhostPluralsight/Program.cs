@@ -13,7 +13,7 @@ namespace SelfhostPluralsight
     {
         static void Main(string[] args)
         {
-            HttpSelfHostConfiguration config = new HttpSelfHostConfiguration("http://localhost:7777");
+            HttpSelfHostConfiguration config = new HttpSelfHostConfiguration("http://localhost:8999");
             config.Routes.MapHttpRoute("default",
                 "api/{controller}/{id}",
                 new { id = RouteParameter.Optional });
