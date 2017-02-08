@@ -12,3 +12,17 @@ C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\SelfhostPluralsight\bin\Debug\
 C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\SelfhostPluralsight\obj\Debug\SelfhostPluralsight.csprojResolveAssemblyReference.cache
 C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\SelfhostPluralsight\obj\Debug\SelfhostPluralsight.exe
 C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\SelfhostPluralsight\obj\Debug\SelfhostPluralsight.pdb
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\SelfhostPluralsight.exe.config
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\obj\Debug\SelfhostPluralsight.exe
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\obj\Debug\SelfhostPluralsight.pdb
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\SelfhostPluralsight.exe
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\SelfhostPluralsight.pdb
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\System.Web.Http.dll
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\System.Web.Http.xml
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Jürgen\Documents\C#\SelfhostPluralsight\selfhostAPI\SelfhostPluralsight\obj\Debug\SelfhostPluralsight.csprojResolveAssemblyReference.cache
